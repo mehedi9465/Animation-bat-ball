@@ -8,7 +8,7 @@
 
 #bat{
     transform: rotateY(180deg) rotateZ(70deg);
-    animation: bat 1s infinite alternate;
+    animation: bat 0.8s infinite alternate;
 }
 
 #ball{
@@ -17,8 +17,8 @@
     position: relative;
     top: 380px;
     left: 200px;
-    animation: ball 1s infinite alternate;
-    animation-delay: 0.2s;
+    animation: ball 0.8s infinite alternate;
+    animation-delay: 0.1s;
 }
 
 @keyframes bat {
