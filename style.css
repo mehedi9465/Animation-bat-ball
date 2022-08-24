@@ -32,9 +32,15 @@
 }
 
 @keyframes ball {
+<<<<<<< HEAD
   0% {
     top: 403px;
   }
+=======
+    0%{
+        top: 403px;
+    }
+>>>>>>> 8abe3f7aade51e36216d63fed0252adeb82da129
 
   100% {
     top: 100px;
